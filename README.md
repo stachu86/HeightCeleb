@@ -5,6 +5,9 @@ which will be presented at [SLT 2024](https://2024.ieeeslt.org/) conference in M
 The dataset is an extension to [Voxceleb](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html) dataset and contains
 height information that was scraped from the Internet.
 
+## Live demo of system trained with HeightCeleb
+[Demo system](https://huggingface.co/spaces/stachu86/HeightCeleb-estimator-demo) deployed in HuggingFace Spaces
+
 ## Dataset Attribution
 
 HeightCeleb dataset is an extension of [Voxceleb](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html) dataset. 
@@ -20,4 +23,5 @@ and `split` information from the Voxceleb dataset.
 
 ## Licenese
 HighCeleb dataset is distributed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+
 
