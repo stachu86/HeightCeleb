@@ -1,5 +1,5 @@
 # HeightCeleb
-This repository contains the dataset described in article *"HeightCeleb - an enrichment of VoxCeleb dataset with speaker height information"*,
+This repository contains the dataset described in article *["HeightCeleb - an enrichment of VoxCeleb dataset with speaker height information"](https://arxiv.org/abs/2410.12668)*,
 which will be presented at [SLT 2024](https://2024.ieeeslt.org/) conference in Macau, China.
 
 The dataset is an extension to [Voxceleb](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html) dataset and contains
