@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+  <img src="heightceleb_logo.png" alt="HeightCeleb Logo" width="320px"/>
+</div>
+
 # HeightCeleb
 This repository contains the dataset described in article *["HeightCeleb - an enrichment of VoxCeleb dataset with speaker height information"](https://arxiv.org/abs/2410.12668)*,
 which will be presented at [SLT 2024](https://2024.ieeeslt.org/) conference in Macau, China.
